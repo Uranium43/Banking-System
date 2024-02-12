@@ -30,13 +30,9 @@ The Banking System project is a Java application that simulates basic banking op
 1. Clone the repository to your local machine:
 git clone https://github.com/yourusername/banking-system.git
 
-markdown
-Copy code
 2. Compile the Java files:
 javac password.java
 
-arduino
-Copy code
 3. Run the main class:
 java password
 
